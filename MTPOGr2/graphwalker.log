@@ -1,3 +1,0 @@
-Все тесты GraphWalker пройдены!
-Всего шагов: {"totalFailedNumberOfModels":0,"totalNotExecutedNumberOfModels":0,"totalNumberOfUnvisitedVertices":0,"verticesNotVisited":[],"totalNumberOfModels":1,"totalCompletedNumberOfModels":1,"totalNumberOfVisitedEdges":10,"totalIncompleteNumberOfModels":0,"edgesNotVisited":[],"vertexCoverage":100,"totalNumberOfEdges":10,"totalNumberOfVisitedVertices":6,"edgeCoverage":100,"totalNumberOfVertices":6,"totalNumberOfUnvisitedEdges":0}
-Ошибок: 0

@@ -19,7 +19,6 @@ MIT License.
 Input datasets used in this repository remain under the original licenses specified by their respective authors and sources:
 
 - **BugsInPy** — see its repository for license details.
-- **GraphWalker models** (JSON files exported from GraphWalker Studio) — covered by the GraphWalker project license.
 
 ## Warranty
 

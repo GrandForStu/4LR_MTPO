@@ -1,8 +1,8 @@
-# TCP Algorithms Comparison
+# Research on the effectiveness of model-based (FSM) test generation  compared to manual scenario writing
 
 ## Authors and Contributors
 
-The main contributors *Dmitry Zhevatchenko*, student of SPbPU ICSC, and *Egor Brizhitskiy*, student of MIPT.
+The main contributors *Dmitry Zhevatchenko*, student of SPbPU ICSC.
 
 The advisor and contributor *Vladimir A. Parkhomenko*, Senior Lecturer of SPbPU ICSC.
 

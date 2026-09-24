@@ -8,9 +8,12 @@ The advisor and contributor *Vladimir A. Parkhomenko*, Senior Lecturer of SPbPU 
 
 ## Introduction
 
-This is a research project for comparing four Test Case Prioritization (TCP) algorithms — **Total Coverage**, **Additional Coverage**, **MOTCP (Ranked NSGA-II)**, and **CAP (Cluster-based Adaptive Prioritization)** — on real-world defects from the **BugsInPy** benchmark.
+This is a research project for comparing four approaches to testing a Finite State Machine (FSM) of an e-commerce order lifecycle — **manual decision-table testing**, **GraphWalker**, **ModelJUnit with GreedyTester**, and a **full-matrix introspection method** — with respect to Transition Coverage,Transition-Pair and overage of unspecified (invalid) transitions
+
+The study is conducted on a Spring Boot application with an order state machine implemented via Spring State Machine. The base model contains 6 states and 5 events (9 valid transitions, 21 invalid pairs); the extended AdvancedOrder model contains 11 states and 11 events (16 valid transitions, 105 invalid pairs).
 
 The project is completed during the preparation of Dmitry Zhevatchenko under *Testing of Software* at SPbPU Institute of Computer Science and Cybersecurity (SPbPU ICSC).
+
 
 ## License
 
@@ -18,7 +21,9 @@ MIT License.
 
 Input datasets used in this repository remain under the original licenses specified by their respective authors and sources:
 
-- **BugsInPy** — see its repository for license details.
+- **GraphWalker models** (JSON files exported from GraphWalker Studio) — covered by the GraphWalker project license.
+- **ModelJUnit** library — covered by the ModelJUnit project license.
+- **Jazzer** — covered by the Apache 2.0 license.
 
 ## Warranty
 

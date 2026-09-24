@@ -2,7 +2,7 @@
 
 ## Authors and Contributors
 
-The main contributors *Dmitry Zhevatchenko*, student of SPbPU ICSC.
+The main contributor *Dmitry Zhevatchenko*, student of SPbPU ICSC.
 
 The advisor and contributor *Vladimir A. Parkhomenko*, Senior Lecturer of SPbPU ICSC.
 
